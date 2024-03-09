@@ -3,10 +3,9 @@
 
 ## Problem Statement
 
--1. Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has a minimal idea about dashboarding. 
-    Hence you need to represent the insights in a much better way
--2. The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand
--3. Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
+Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has a minimal idea about dashboarding. 
+Hence you need to represent the insights in a much better wayThe target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand.
+Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
 
 ### Tools Used
@@ -90,7 +89,7 @@ Visualization Tool  -  Power Bi Desktop
    (C)  By Month Name
 
    
-# Snapshot of Dashboard (Power BI Desktop)
+### Snapshot of Dashboard (Power BI Desktop)
 
         PAGE 1
      
@@ -110,13 +109,13 @@ Visualization Tool  -  Power Bi Desktop
 - Step 16 : After that I did write Report title that is Telecom Company before 5G and After 5G.
 - Step 17 : Then I did insert Three slicer from visualization tab that is like that Home Page.
 
-# Report Snapshot (Power BI DESKTOP)
+### Report Snapshot (Power BI DESKTOP)
 
-        PAGE 2
+  PAGE 2
  
+ ![t2](https://github.com/narendrakharol037/Telecom_Plans_Sales_Analysis/assets/121941969/ac1e1be5-9426-4b88-ad42-63f5836a5f67)
  
- 
-# Insights of PAGE 1
+### Insights of PAGE 1
 
  (1) Change % of Revenue by City Increase to 1.82% in Lucknow and Decrease to -2.83% in Delhi.
 
@@ -128,7 +127,7 @@ Visualization Tool  -  Power Bi Desktop
 
 
 
-# Insights of PAGE 2
+### Insights of PAGE 2
 
  (1) Top Plans by Revenue is P1 and following that P2, P3, P4
 
