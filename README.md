@@ -11,6 +11,8 @@ Mock up Dashboard
 
 ![t3](https://github.com/narendrakharol037/Telecom_Plans_Sales_Analysis/assets/121941969/b86c09fa-d328-4c3f-9aef-5ace1bbb4e2d)
 
+![t4](https://github.com/narendrakharol037/Telecom_Plans_Sales_Analysis/assets/121941969/777c7200-9e48-4195-bced-d6485bfed117)
+
 
 ### Tools Used
 
