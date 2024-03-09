@@ -7,6 +7,10 @@ Create the comparison report based on the mock-up provided. Please note the mock
 Hence you need to represent the insights in a much better wayThe target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand.
 Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
+Mock up Dashboard
+
+![t3](https://github.com/narendrakharol037/Telecom_Plans_Sales_Analysis/assets/121941969/b86c09fa-d328-4c3f-9aef-5ace1bbb4e2d)
+
 
 ### Tools Used
 
