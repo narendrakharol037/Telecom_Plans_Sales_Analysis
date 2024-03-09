@@ -97,7 +97,7 @@ Visualization Tool  -  Power Bi Desktop
    
 ### Snapshot of Dashboard (Power BI Desktop)
 
-        PAGE 1
+ PAGE 1
      
 ![t1](https://github.com/narendrakharol037/Telecom_Plans_Sales_Analysis/assets/121941969/895a627a-e622-4bfa-aa5a-b7d7ddd9aae2)   
 
